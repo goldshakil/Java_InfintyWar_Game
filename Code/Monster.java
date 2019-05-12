@@ -91,11 +91,11 @@ public class Monster {
 		System.out.print("    ");
 		for (int c = 1; c <= Hp / 10; c++) // Hp Bar
 		{
-			System.out.print("¡Ü");
+			System.out.print("Â¡Ãœ");
 		}
 		if(Hp % 10 > 0) // Hp Bar
 		{
-			System.out.printf("¡Û");
+			System.out.printf("Â¡Ã›");
 		}
 		System.out.println();
 
@@ -104,11 +104,11 @@ public class Monster {
 			System.out.print("    ");
 			for (int c = 1; c <= Shield / 10; c++) // Hp Bar
 			{
-				System.out.printf("¡Ü");
+				System.out.printf("Â¡Ãœ");
 			}
 			if(Shield % 10 > 0) // Hp Bar
 			{
-				System.out.printf("¡Û");
+				System.out.printf("Â¡Ã›");
 			}
 		}
 
