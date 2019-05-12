@@ -11,4 +11,4 @@ This game is a simple card and action game with no GUI.
 1)Enemy Stage. 2)Rest Stage. 3)Treasure Stage. 4)Unknown Stage. 5)Boss Stage
 
 
-* Please check the attached Description.pdf for more details
+* Please check the attached **Description.pdf** for more details
